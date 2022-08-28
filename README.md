@@ -1,2 +1,0 @@
-# rustgrow_images
-images
